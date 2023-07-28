@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\ServicioSOAP.dll.config
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\ServicioSOAP.dll
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\ServicioSOAP.pdb
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\EntityFramework.dll
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\EntityFramework.xml
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\obj\Debug\ServicioSOAP.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\obj\Debug\ServicioSOAP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\obj\Debug\ServicioSOAP.csproj.CopyComplete
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\obj\Debug\ServicioSOAP.dll
+C:\Users\DELL\Documents\Proyectos-Bitwise\Curso\Proyecto3\ServicioSOAP\ServicioSOAP\obj\Debug\ServicioSOAP.pdb
